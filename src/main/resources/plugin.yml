@@ -1,0 +1,15 @@
+#Required information for Bukkit
+name: Template
+main: net.flutterflies.template.Template
+version: 1.0.0
+
+#Optional plugin description data
+description: A Template for all of Flutter's Spigot plugins
+author: Ashrynn Macke | Fluterflies
+website: http://flutterflies.net
+
+#plugin commands
+commands:
+
+#Plugin Premissions
+premissions:
