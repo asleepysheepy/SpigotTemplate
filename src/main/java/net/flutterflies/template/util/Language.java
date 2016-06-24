@@ -1,11 +1,3 @@
-/**
- * File created 23 June 2016
- *
- * Distributed as part of Lucavrynn. A Discord integration for Spigot 1.10
- * made by Ashrynn Macke (Flutterflies). You should have received a copy
- * of the MIT license with this code, if not please find it here:
- * https://opensource.org/licenses/MIT
- */
 package net.flutterflies.template.util;
 
 import org.bukkit.ChatColor;
